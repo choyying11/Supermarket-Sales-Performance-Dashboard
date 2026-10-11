@@ -26,6 +26,14 @@ This dashboard is designed to answer questions such as:
 - Which product categories contribute the most revenue and profit?
 - How does customer membership status relate to sales performance?
 
+## Tools & Technologies
+
+- Microsoft Excel
+- PivotTables and PivotCharts
+- Excel Data Model
+- Slicers and interactive dashboard elements
+- Data analysis and visualization
+
 ## Key Findings & Business Insights
 
 
