@@ -52,3 +52,5 @@ This dashboard is designed to answer questions such as:
 - **Customer engagement:** Develop targeted promotions for regular shoppers and family shoppers to encourage repeat purchases.
 - **Sales improvement:** Investigate changes in average order value and monthly revenue to determine whether the decline is related to lower spending, fewer orders, or changes in product mix.
 
+## Dashboard link:
+https://drive.google.com/file/d/1RJq7TwQla5kCC_lVzgOsBhmqd-Z7lDsa/view?usp=drive_link
